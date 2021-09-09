@@ -4,5 +4,6 @@ import SmallCard from "./SmallCard";
 import MediumCard from "./MediumCard";
 import LargeCard from "./LargeCard";
 import Footer from "./Footer";
+import InfoCard from "./InfoCard";
 
-export { Navbar, Hero, SmallCard, MediumCard, LargeCard, Footer };
+export { Navbar, Hero, SmallCard, MediumCard, LargeCard, Footer, InfoCard };
